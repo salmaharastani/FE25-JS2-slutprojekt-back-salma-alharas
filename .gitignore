@@ -1,5 +1,4 @@
-node_modules/
+Snode_modules/
 dist/
 .env
 *.log
-frontend/
