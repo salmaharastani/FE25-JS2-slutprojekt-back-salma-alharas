@@ -1,4 +1,4 @@
-Snode_modules/
+node_modules/
 dist/
 .env
 *.log
